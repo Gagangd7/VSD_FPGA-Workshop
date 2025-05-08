@@ -25,4 +25,4 @@ Notes
 Refer to the VSD Squadron Datasheet for pinout and LED specifications.
 Ensure the power supply to the board is stable before programming.
 
-By- Gagandeep S C
+By- Gagandeep Cholaki
