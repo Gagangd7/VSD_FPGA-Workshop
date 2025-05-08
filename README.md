@@ -1,4 +1,4 @@
-# VSD_FPGA-Workshop
+# VSD_FPGA_Workshop
 1) Description
 This project demonstrates a simple LED blinking application using the VSD Squadron development board. The VSD Squadron is a custom-designed microcontroller development board based on FPGA SoC. This example toggles onboard LEDs at regular intervals to showcase basic GPIO control and timing.
 
