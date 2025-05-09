@@ -85,5 +85,9 @@ Provides 15 GPIO pins for versatile interfacing
 Supports USART, I2C, and SPI communication protocols
 On-board programmer eliminates the need for external programming devices
 
-
+We followed the common commands:
+sudo make
+sudo build
+sudo make flash
+sudo make terminal
 By- Gagandeep Cholaki
